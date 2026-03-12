@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "LLM Evaluation Toolkit"
+message: "If you use this project, please cite it as below."
+type: software
+
+authors:
+  - family-names: Taratuta
+    given-names: Ekaterina
+
+repository-code: https://github.com/LLM-Measurement-Lab/llm-evaluation-toolkit
+
+abstract: >
+  A small research-oriented toolkit for studying reliability and
+  robustness of automated LLM evaluation pipelines, including tools
+  for evaluator agreement analysis, adversarial evaluation behavior,
+  and calibration of LLM-based judges.
+
+license: MIT
